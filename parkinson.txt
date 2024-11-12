@@ -1,0 +1,66 @@
+MDVP:Fo(Hz):
+70 Hz to 450 Hz
+
+MDVP:Fhi(Hz):
+200 Hz to 500 Hz
+
+MDVP:Flo(Hz):
+50 Hz to 250 Hz
+
+MDVP:Jitter(%):
+0.1% to 5.0%
+
+MDVP:Jitter(Abs):
+0.007 to 1.0 ms
+
+MDVP:RAP:
+0.0001 to 0.05
+
+MDVP:PPQ:
+0.0001 to 0.03
+
+Jitter:DDP:
+0.0 to 0.1
+
+MDVP:Shimmer:
+0.0 to 0.2
+
+MDVP:Shimmer(dB):
+0.1 to 1.50 dB
+
+Shimmer:APQ3:
+0.001 to 0.1
+
+Shimmer:APQ5:
+0.001 to 0.1
+
+MDVP:APQ:
+0.001 to 0.1
+
+Shimmer:DDA:
+0.01 to 0.2
+
+NHR:
+0.0001 to 1.5
+
+HNR:
+8.4 to 33 dB
+
+RPDE:
+0.26 to 0.69
+
+DFA:
+0.57 to 0.83
+
+spread1:
+-7.96 to -2.43
+
+spread2:
+0.006 to 0.45
+
+D2:
+1.42 to 3.67
+
+PPE:
+0.045 to 0.53
+

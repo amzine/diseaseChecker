@@ -1,0 +1,49 @@
+sex:
+0 → "Male"
+1 → "Female"
+
+cp (Chest Pain Type):
+0 → "Typical Angina"
+1 → "Atypical Angina"
+2 → "Non-anginal pain"
+3 → "Asymptomatic"
+
+trestbps (Resting Blood Pressure):
+90 mm Hg to 180 mm Hg
+
+chol (Serum Cholesterol):
+150 mg/dL to 400 mg/dL
+
+fbs (Fasting Blood Sugar):
+0 → "Fasting blood sugar < 120 mg/dl"
+1 → "Fasting blood sugar ≥ 120 mg/dl" (this can indicate possible diabetes, which is often related to hypertension)
+
+restecg (Resting Electrocardiographic Results):
+0 → "Normal"
+1 → "Having ST-T wave abnormality (T wave inversion and/or ST elevation or depression)"
+2 → "Showing probable or definite left ventricular hypertrophy by Estes’ criteria"
+
+thalach (Maximum Heart Rate Achieved):
+120 bpm to 200 bpm
+
+exang (Exercise Induced Angina):
+0 → "No"
+1 → "Yes" (Indicates chest pain induced by exercise, which can be a sign of heart problems related to hypertension)
+
+oldpeak (Depression of the ST segment):
+0 mm to 5 mm
+
+slope (Slope of the Peak Exercise ST Segment):
+0 → "Upward Sloping"
+1 → "Flat"
+2 → "Downward Sloping" (this can indicate certain types of heart issues or exercise tolerance)
+
+ca (Number of Major Vessels Colored by Fluoroscopy):
+0 → "No major vessels"
+1 → "1 major vessel"
+
+thal (Thalassemia):
+1 → "Normal"
+2 → "Fixed Defect" (a type of permanent heart damage)
+3 → "Reversable Defect" (a type of heart condition that could be reversible with treatment)
+

@@ -1,0 +1,86 @@
+Gender:
+0 → "Male"
+1 → "Female"
+Ethnicity (examples):
+0 → "Ethnicity A"
+1 → "Ethnicity B"
+2 → "Ethnicity C"
+Education Level:
+0 → "No Education"
+1 → "High School"
+2 → "Undergraduate Degree"
+3 → "Postgraduate Degree"
+BMI:
+0.0 - 18.4 → "Underweight"
+18.5 - 24.9 → "Normal weight"
+25 - 29.0 → "Overweight"
+30 and above → "Obesity"
+Smoking:
+0 → "Non-smoker"
+1 → "Smoker"
+Physical Activity:
+0.0 - 1.0 → "Low Activity"
+1.1 - 2.0 → "Moderate Activity"
+2.1 and above → "High Activity"
+Diet Quality:
+0.0 - 1.0 → "Poor Diet"
+1.1 - 2.0 → "Average Diet"
+2.1 - 3.0 → "Good Diet"
+3.1 and above → "Excellent Diet"
+Sleep Quality:
+0.0 - 1.0 → "Poor Sleep"
+1.1 - 2.0 → "Fair Sleep"
+2.1 - 3.0 → "Good Sleep"
+3.1 and above → "Very Good Sleep"
+Pollution Exposure:
+0.0 - 1.0 → "Low Pollution Exposure"
+1.1 - 2.0 → "Moderate Pollution Exposure"
+2.1 and above → "High Pollution Exposure"
+Pollen Exposure:
+0.0 - 1.0 → "Low Pollen Exposure"
+1.1 - 2.0 → "Moderate Pollen Exposure"
+2.1 and above → "High Pollen Exposure"
+Dust Exposure:
+0.0 - 1.0 → "Low Dust Exposure"
+1.1 - 2.0 → "Moderate Dust Exposure"
+2.1 and above → "High Dust Exposure"
+Pet Allergy:
+0 → "No"
+1 → "Yes"
+Family History of Asthma:
+0 → "No"
+1 → "Yes"
+History of Allergies:
+0 → "No"
+1 → "Yes"
+Eczema:
+0 → "No"
+1 → "Yes"
+Hay Fever:
+0 → "No"
+1 → "Yes"
+Gastroesophageal Reflux:
+0 → "No"
+1 → "Yes"
+LungFunctionFEV1:
+from 1.0 to 5.0 L 
+LungFunctionFVC:
+from 2.0 to 6.0 L
+Wheezing:
+0 → "No"
+1 → "Yes"
+Shortness of Breath:
+0 → "No"
+1 → "Yes"
+Chest Tightness:
+0 → "No"
+1 → "Yes"
+Coughing:
+0 → "No"
+1 → "Yes"
+Nighttime Symptoms:
+0 → "No"
+1 → "Yes"
+Exercise-Induced Symptoms:
+0 → "No"
+1 → "Yes"
