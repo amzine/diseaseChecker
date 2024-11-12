@@ -1,51 +1,68 @@
 Sex:
 0 → "Male"
 1 → "Female"
+
 HighChol (High Cholesterol):
 0 → "No"
 1 → "Yes"
+
 CholCheck (Cholesterol Check):
 0 → "No"
 1 → "Yes"
-BMI (Body Mass Index):
-BMI < 18.5 → "Underweight"
-BMI 18.5–24.9 → "Normal weight"
-BMI 25.0–29.9 → "Overweight"
-BMI ≥ 30 → "Obesity"
+
+BMI:
+0.0 - 18.4 → "Underweight"
+18.5 - 24.9 → "Normal weight"
+25 - 29.0 → "Overweight"
+30 and above → "Obesity"
+
 Smoker:
 0 → "Non-smoker"
 1 → "Smoker"
+
 HeartDiseaseorAttack:
 0 → "No"
 1 → "Yes"
+
 PhysActivity (Physical Activity):
 0 → "No physical activity"
 1 → "Some physical activity"
+
 Fruits:
 0 → "No consumption of fruits"
 1 → "Consumes fruits occasionally"
+
 Veggies:
 0 → "No consumption of vegetables"
 1 → "Consumes vegetables occasionally"
+
 HvyAlcoholConsump (Heavy Alcohol Consumption):
 0 → "No"
 1 → "Yes"
+
 GenHlth (General Health):
 1 → "Excellent"
 2 → "Very good"
 3 → "Good"
 4 → "Fair"
 5 → "Poor"
+
 MentHlth (Mental Health):
 Keep as a numerical value (number of days in the last 30 days that mental health was not good).
+from 0 to 30 day
+
 PhysHlth (Physical Health):
 Keep as a numerical value (number of days in the last 30 days that physical health was not good).
+from 0 to 30 day
+
 DiffWalk (Difficulty Walking):
 0 → "No difficulty"
 1 → "Some difficulty"
+
 Stroke:
 0 → "No"
 1 → "Yes"
+
 HighBP (High Blood Pressure):
 0 → "No"
 1 → "Yes"
